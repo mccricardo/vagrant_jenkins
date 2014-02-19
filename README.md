@@ -5,6 +5,7 @@ Vagrant setup to build a VM and run Jenkins.
 
 # Dependencies
 
+ * [VirtualBox](https://www.virtualbox.org/)
  * [Vagrant](http://www.vagrantup.com/)
 
 # How to setup
